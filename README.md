@@ -13,6 +13,7 @@
 ## 主題
 
 * [Mx Linux Adjustment](#mx-linux-adjustment)
+* [微調腳本](#微調腳本)
 * [相關筆記](#相關筆記)
 
 
@@ -25,6 +26,15 @@
 | [Mx Linux Xfce 探索筆記](https://samwhelp.github.io/note-about-mxlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-xfce) |
 | [Mx Linux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-mxlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-kde-plasma) |
 | [Mx Linux Fluxbox 探索筆記](https://samwhelp.github.io/note-about-mxlinux-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-fluxbox) |
+
+
+
+
+## 微調腳本
+
+| 微調腳本 |
+| ------- |
+| [Tool Config](https://github.com/samwhelp/mxlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
