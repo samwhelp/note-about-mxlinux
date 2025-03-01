@@ -12,16 +12,16 @@
 
 ## 主題
 
-* [Mx Linux Adjustment](#mx-linux-adjustment)
+* [Mx Linux Respin](#mx-linux-respin)
 * [微調腳本](#微調腳本)
 * [相關筆記](#相關筆記)
 
 
 
 
-## Mx Linux Adjustment
+## Mx Linux Respin
 
-| Mx Linux Adjustment | GitHub |
+| Mx Linux Respin | GitHub |
 | ------------------- | ------ |
 | [Mx Linux Xfce 探索筆記](https://samwhelp.github.io/note-about-mxlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-xfce) |
 | [Mx Linux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-mxlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-kde-plasma) |
