@@ -37,6 +37,7 @@
 
 | 微調腳本 |
 | ------- |
+| [Mx Linux Config](https://github.com/samwhelp/mxlinux-adjustment/tree/main/prototype/main) |
 | [Tool Config](https://github.com/samwhelp/mxlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
