@@ -76,6 +76,9 @@
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 | [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 | [Linux Mint 探索筆記](https://samwhelp.github.io/note-about-linuxmint/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint) |
+| [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
+| [Manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/) | [GitHub](https://github.com/samwhelp/note-about-manjaro) |
+| [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
 
 
 
