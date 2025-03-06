@@ -33,7 +33,7 @@ has_children: true
 | [gcin](#gcin) | `im-config -n gcin` | ~/.xinputrc |
 | [hime](#hime) | `im-config -n hime` | ~/.xinputrc |
 
-> $ [man im-config](https://manpages.ubuntu.com/manpages/noble/en/man8/im-config.8.html)
+> $ [man im-config](https://manpages.debian.org/stable/im-config/im-config.8.en.html)
 
 
 
@@ -43,6 +43,8 @@ has_children: true
 | 模組 | 中文輸入法 |
 | --- | --- |
 | [fcitx5-chewing](https://samwhelp.github.io/note-about-mxlinux/read/subject/input-method/fcitx5/module/fcitx5-chewing.html) | 新酷音輸入法 |
+| [fcitx5-table-boshiamy](https://samwhelp.github.io/note-about-mxlinux/read/subject/input-method/fcitx5/table/fcitx5-table-boshiamy.html) | 嘸蝦米輸入法 |
+| [fcitx5-table-easy-large](https://samwhelp.github.io/note-about-mxlinux/read/subject/input-method/fcitx5/table/fcitx5-table-easy-large.html) | 輕鬆輸入法 |
 
 
 
