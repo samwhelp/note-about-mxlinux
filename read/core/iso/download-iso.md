@@ -27,6 +27,8 @@ parent: ISO
 
 ## 下載點
 
+> 可以到下面網址，尋找下載點。
+
 * MxLinux / [Download](https://mxlinux.org/download-links/) / [Mirrors](https://rsync-mxlinux.org/mirmon/index.html)
 
 
