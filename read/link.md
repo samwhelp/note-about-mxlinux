@@ -14,8 +14,19 @@ has_children: true
 
 | MxLinux |
 | -------- |
-| [MxLinux](https://mxlinux.org/) |
+| [MxLinux](https://mxlinux.org/) / [News](https://mxlinux.org/mx-linux-blog/) |
 | GitHub / [mx-linux](https://github.com/mx-linux) |
+
+
+
+
+## MxLinux / Download
+
+* MxLinux / [Download](https://mxlinux.org/download-links/) / [Mirrors](https://rsync-mxlinux.org/mirmon/index.html)
+
+| SourceForge |
+| ----------- |
+| SourceForge / MX-Linux / [Files](https://sourceforge.net/projects/mx-linux/files/Final/) |
 
 
 
