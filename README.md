@@ -12,12 +12,23 @@
 
 ## 主題
 
-* [MxLinux Respin](#mxlinux-respin)
 * [微調腳本](#微調腳本)
+* [MxLinux Respin](#mxlinux-respin)
+* [ISO](#iso)
 * [字型](#字型)
 * [輸入法](#輸入法)
 * [佈景主題](#佈景主題)
 * [相關筆記](#相關筆記)
+
+
+
+
+## 微調腳本
+
+| 微調腳本 |
+| ------- |
+| [MxLinux Config](https://github.com/samwhelp/mxlinux-adjustment/tree/main/prototype/main) |
+| [Tool Config](https://github.com/samwhelp/mxlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
@@ -33,12 +44,22 @@
 
 
 
-## 微調腳本
+## ISO
 
-| 微調腳本 |
-| ------- |
-| [MxLinux Config](https://github.com/samwhelp/mxlinux-adjustment/tree/main/prototype/main) |
-| [Tool Config](https://github.com/samwhelp/mxlinux-adjustment/tree/main/prototype/main/tool-config/part) |
+### Download ISO
+
+| Download ISO |
+| --- |
+| [Download ISO](https://samwhelp.github.io/note-about-mxlinux/read/core/iso/download-iso.html) |
+
+
+### Boot ISO
+
+| Boot ISO |
+| --- |
+| [Boot ISO By USB](https://samwhelp.github.io/note-about-mxlinux/read/core/iso/boot-iso/boot-iso-by-usb.html) |
+| [Boot ISO By Ventoy](https://samwhelp.github.io/note-about-mxlinux/read/core/iso/boot-iso/boot-iso-by-ventoy.html) |
+| [Boot ISO By GRUB](https://samwhelp.github.io/note-about-mxlinux/read/core/iso/boot-iso/boot-iso-by-grub.html) |
 
 
 
