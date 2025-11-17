@@ -20,7 +20,7 @@ parent: ISO
 
 ## 下載腳本
 
-* [下載腳本](https://github.com/samwhelp/mxlinux-adjustment/tree/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-mxlinux-iso)
+* [下載腳本](https://github.com/samwhelp/mxlinux-adjustment/tree/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-mxlinux-iso)
 
 
 
